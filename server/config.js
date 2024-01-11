@@ -38,7 +38,7 @@ module.exports = {
 
     // How long a entity chat message lasts in milliseconds.
     // Includes the fade-out period.
-    CHAT_MESSAGE_DURATION: 30_000,
+    CHAT_MESSAGE_DURATION: 30000,
 
     // If you don't want your players to color their messages.
     // They get sanitized after addons interpret them, but before they're added to the chat message dictionary.
