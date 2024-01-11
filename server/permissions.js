@@ -27,7 +27,7 @@ module.exports = [
         "note": "note here"
     },
     {
-        "key": process.env.dev_333friedonly,
+        "key": process.env.friedair2628362,
         "discordID": "0",
         "nameColor": "#ffffff",
         "class": "developer",
