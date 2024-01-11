@@ -18,10 +18,10 @@ module.exports = [
         "note": "note here"
     },
     {
-        "key": process.env.TOKEN_3,
+        "key":  process.env.TOKEN_3,
         "discordID": "0",
         "nameColor": "#ffffff",
-        "class": "test",
+        "class": "developer",
         "infiniteLevelUp": true,
         "name": "unnamed#0000",
         "note": "note here"
