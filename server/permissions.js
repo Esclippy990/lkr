@@ -3,7 +3,7 @@ module.exports = [
         "key": process.env.TOKEN_1,
         "discordID": "0",
         "nameColor": "#ffffff",
-        "class": "developer",
+        "class": "basic",
         "infiniteLevelUp": true,
         "name": "unnamed#0000",
         "note": "note here"
@@ -12,7 +12,7 @@ module.exports = [
         "key": process.env.TOKEN_2,
         "discordID": "0",
         "nameColor": "#ffffff",
-        "class": "developer",
+        "class": "arenacloser",
         "infiniteLevelUp": true,
         "name": "unnamed#0000",
         "note": "note here"
@@ -21,13 +21,13 @@ module.exports = [
         "key": process.env.TOKEN_3,
         "discordID": "0",
         "nameColor": "#ffffff",
-        "class": "developer",
+        "class": "test",
         "infiniteLevelUp": true,
         "name": "unnamed#0000",
         "note": "note here"
     },
     {
-        "key": process.env.TOKEN_4,
+        "key": process.env.dev_333friedonly,
         "discordID": "0",
         "nameColor": "#ffffff",
         "class": "developer",
