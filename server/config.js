@@ -3,7 +3,7 @@ module.exports = {
 
     // Game server domain.
     // If 'localhost:NUMBER', the port must equal the port setting.
-    host: "rapid-sedate-zoo.glitch.me",
+    host: "random-arraspstest.glitch.me",
 
     // Which port to run the web server on.
     port: 80,
