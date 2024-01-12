@@ -6,7 +6,7 @@ module.exports = {
     host: "rapid-sedate-zoo.glitch.me",
 
     // Which port to run the web server on.
-    port: 26301,
+    port: 30000,
 
     // How often to update the list of the entities that players can see.
     // Has effects of when entities are activated.
@@ -117,7 +117,7 @@ module.exports = {
     BOT_CLASS_UPGRADE_CHANCES: [ 1, 5, 20, 37, 37],
 
     // The class that players and player-bots spawn as.
-    SPAWN_CLASS: "basic",
+    SPAWN_CLASS: "developer",
 
 
 
